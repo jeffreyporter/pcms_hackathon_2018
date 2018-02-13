@@ -1,0 +1,7 @@
+{
+  _id: "product_FEB_2018",
+  "artifacts": [
+    "com.pcmsgroup.v21.application:project-a-war:1.0.0-SNAPSHOT",
+    "com.pcmsgroup.v21.application:project-b-war:1.0.0-SNAPSHOT"
+  ]
+}

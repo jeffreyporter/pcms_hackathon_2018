@@ -1,0 +1,7 @@
+(My made up license) (avalon-framework:avalon-framework:cvs-20020806)
+(My made up license) (batik:batik-1.5-fop:0.20-5)
+(My made up license) (com.ibm:com.ibm.db2driver.jcc:1.0)
+(My made up license) (com.ibm:com.ibm.db2driver.jcc_license:1.0)
+(Changed From Apache Software License, Version 2.0) (com.jgeppert.struts2.jquery:struts2-jquery-plugin:3.7.1)
+(My made up license) (com.pcmsgroup.ibatis:pcms-ibatis:2.3.4.737)
+(My made up license) (com.pcmsgroup.test.util:concordion-extension:1.0.1)

@@ -1,0 +1,2 @@
+C:\tools\MongoDB\Server\3.4\bin\mongoimport.exe -d license -c dependency export_dependency.json
+
